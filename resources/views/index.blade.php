@@ -14,5 +14,9 @@
     @include('component.about')
 
     @include('component.skills')
+
+    @include('component.project')
+
+    @include('component.contact')
 </body>
 </html>

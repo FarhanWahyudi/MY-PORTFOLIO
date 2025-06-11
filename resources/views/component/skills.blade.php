@@ -1,5 +1,5 @@
 <div class="flex flex-col items-center bg-black py-15 px-5 sm:px-10 lg:px-20">
-    <h1 class="text-white text-center font-bold text-3xl lg:text-4xl xl:text-5xl z-50">SKILLS</h1>
+    <h1 class="text-white text-center font-bold text-3xl lg:text-4xl xl:text-5xl">SKILLS</h1>
     <P class="text-white text-center mt-10 mb-20 md:text-lg lg:w-[70%] xl:w-[50%]">Saat ini saya terus mengembangkan kemampuan saya dengan fokus pada teknologi yang umum digunakan dalam pengembangan aplikasi web modern.</P>
     <div class="flex flex-wrap gap-5 justify-center md:gap-10">
         <div class="flex flex-col items-center justify-end bg-[#696C72] shadow-md shadow-stone-100 w-23 h-27 py-2 rounded-md mt-10 md:w-33 md:h-37">
