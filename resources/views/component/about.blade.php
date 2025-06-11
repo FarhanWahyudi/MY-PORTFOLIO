@@ -1,8 +1,8 @@
 <div class="py-15 px-5 sm:px-10 lg:px-20 xl:py-30">
     <h1 class="text-3xl font-bold text-center mb-10 lg:mb-20 lg:text-4xl xl:mb-25 xl:text-5xl">ABOUT ME</h1>
     <div class="lg:grid lg:grid-cols-2 items-center">
-        <div class="w-70 mx-auto mb-10 h-90 bg-blue-200 rounded-xl sm:w-70 lg:mb-0 xl:w-80 xl:h-100 2xl:w-90 2xl:h-120">
-            <img src="" alt="">
+        <div class="flex justify-center items-center w-70 mx-auto mb-10 h-70 bg-[#393E46] rounded-xl lg:mb-0 lg:w-80 lg:h-80 xl:w-90 xl:h-90">
+            <img src="/icon/farhan.jpg" alt="" class="w-70 h-70 rounded-3xl rotate-10 lg:mb-0 lg:w-80 lg:h-80 xl:w-90 xl:h-90">
         </div>
         <div class="flex flex-col gap-10 items-center">
             <P class="text-sm text-center md:text-base lg:border-b-2 lg:border-stone-400 lg:pb-10 2xl:text-lg">
