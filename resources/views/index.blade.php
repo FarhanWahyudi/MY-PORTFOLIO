@@ -18,5 +18,7 @@
     @include('component.project')
 
     @include('component.contact')
+
+    @include('component.footer')
 </body>
 </html>

@@ -1,4 +1,4 @@
-<div class="flex justify-center mb-100 px-5 py-5 sm:px-10 lg:px-25">
+<div class="flex justify-center mb-80 px-5 py-5 sm:px-10 lg:px-25">
     <div class="flex flex-col place-items-center w-full bg-[#393E46] rounded-xl md:grid md:grid-cols-2 md:h-90 md:rounded-3xl xl:w-[90%] 2xl:w-[70%]">
         <div class="relative w-full h-full">
             <div class="flex flex-col justify-between gap-10 items-center p-10 bg-[#D9D9D9] rounded-xl md:absolute md:-translate-y-1/2 md:-translate-x-1/2 md:top-1/2 md:left-1/2  md:w-70 lg:w-80 lg:h-140 xl:w-100">

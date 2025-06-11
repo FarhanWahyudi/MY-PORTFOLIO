@@ -1,4 +1,4 @@
-<div class="py-15 px-5 mb-100 sm:px-10 lg:px-20" >
+<div class="py-15 px-5 mb-50 sm:px-10 lg:px-20 border">
     <h1 class="text-center font-bold text-3xl lg:text-4xl xl:text-5xl">Project</h1>
     <br>
     <br>
