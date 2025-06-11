@@ -12,5 +12,7 @@
     @include('component.hero')
 
     @include('component.about')
+
+    @include('component.skills')
 </body>
 </html>
